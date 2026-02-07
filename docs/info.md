@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Uses Nand and And To check for correct input and activates 7 segment display
 ## How to test
 
-Explain how to use your project
+use 1-2-4-6 as code
+the 7 segment display will show a 7
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
